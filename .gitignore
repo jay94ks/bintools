@@ -1,0 +1,5 @@
+*.o
+*.log
+
+bin2elfo
+nelfo
